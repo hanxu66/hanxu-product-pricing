@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品定价"
+  short_description: "使用自己的产品事实形成产品定价成果，保留责任边界与关键假设"
+  default_prompt: "用 $hanxu-product-pricing 根据我的有效材料处理本项产品问题，不改现有承诺。"

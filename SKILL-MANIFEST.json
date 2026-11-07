@@ -1,0 +1,16 @@
+{
+  "name": "hanxu-product-pricing",
+  "version": "0.1.0",
+  "repository": "hanxu-product-pricing",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "b40f5da163d9328853e28b24d6adc209e9a12b8a8adad373d56e7b9841e06968",
+    "SKILL.md": "6026f0031d281076872fc8a47880bbaef2edf12ef5c521c137110ab63e882f88",
+    "VALIDATION.md": "a0d24b8141f47b842bc8c0cadf3fdae6590081323fc7202239c4c6a74633515e",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "b65ea526d5b11206de0fcd1cd4cff0ffbc51f19b383b30fb94a9ae7360c7efa9",
+    "examples/capacity.json": "c125e5d1e9399e56916b96532b7fbdb0bfa3eb40770aa5e8ea7c1326ae092a12",
+    "references/acceptance.md": "a55c8f02819eefc9bd39dcd294793919eb9b27cca7520dbea8c3726c58c574e8",
+    "scripts/calculate_product_capacity.py": "b7dd4e20b23ec7c4dfef613706a88746649011d023ea10cfe681819e9c98c7eb"
+  }
+}

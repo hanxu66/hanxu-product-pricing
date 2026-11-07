@@ -1,0 +1,20 @@
+{
+  "synthetic_example": true,
+  "period_label": "four weeks",
+  "unit_label": "one client cycle",
+  "period_hours": 40,
+  "existing_hours": 12,
+  "buffer_hours": 4,
+  "shared_hours": 4,
+  "per_unit_hours": {
+    "preparation": 1,
+    "meeting": 2,
+    "revision": 1
+  },
+  "scenario_units": 5,
+  "price_per_unit": 1000,
+  "cash_cost_per_unit": 100,
+  "fixed_cash_cost": 200,
+  "fee_rate": 0.1,
+  "owner_hourly_value": 50
+}
